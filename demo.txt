@@ -1,0 +1,14 @@
+    1  git config user.name --global "MariaSulcaDev"
+    2  git config --global user.name "MariaSulcaDev"
+    3  git config --global user.email maria.sulca.b@vallegrande.edu.pe
+    4  ls
+    5  cd OneDrive/Escritorio/
+    6  git clone https://github.com/vallegrande/AS232S3_T04-utilities.git
+    7  gie clone https://github.com/vallegrande/AS232S3_T04-utilities.git
+    8  git clone https://github.com/vallegrande/AS232S3_T04-utilities.git
+    9  mkdir demo2
+   10  cd demo2
+   11  git init
+   12  git clone https://github.com/MariaSulcaDev/demo.git
+   13  cd demo/
+   14  history > demo.txt
