@@ -1,14 +1,234 @@
-    1  git config user.name --global "MariaSulcaDev"
-    2  git config --global user.name "MariaSulcaDev"
-    3  git config --global user.email maria.sulca.b@vallegrande.edu.pe
-    4  ls
-    5  cd OneDrive/Escritorio/
-    6  git clone https://github.com/vallegrande/AS232S3_T04-utilities.git
-    7  gie clone https://github.com/vallegrande/AS232S3_T04-utilities.git
-    8  git clone https://github.com/vallegrande/AS232S3_T04-utilities.git
-    9  mkdir demo2
-   10  cd demo2
-   11  git init
-   12  git clone https://github.com/MariaSulcaDev/demo.git
-   13  cd demo/
-   14  history > demo.txt
+    1  git config --global user.name "MariaSulcaDev"
+    2  git clone https://github.com/MariaSulcaDev/13_Mar-aSulca_POO.git
+    3  git status 
+    4  git status 
+    5  git status
+    6  git add .
+    7  git status
+    8  git commit -m "Primer commit"
+    9  git push
+   10  git status
+   11  git push
+   12  git add .
+   13  git commit -m "Segundo Commit"
+   14  git status
+   15  git push
+   16  git init
+   17  git status
+   18  git add .
+   19  git commit -m "Segundo commit"
+   20  git push
+   21  git status
+   22  git add .
+   23  git commit -m "Segundo Commit"
+   24  git init
+   25  git status
+   26  git init
+   27  git status
+   28  git
+   29  cls
+   30  clear
+   31  git config global user.name "MariaSulcaDev"
+   32  git add .
+   33  git status
+   34  git commit -m "commit 1"
+   35  git push
+   36  cls
+   37  clear
+   38  git config --global user.name "MariaSulcaDev"
+   39  git config --global user.email "maria.sulca.b@vallegrande.edu.pe"
+   40  git init
+   41  git add .
+   42  git status
+   43  git commit -m "Segundo commit"
+   44  git push
+   45  git status
+   46  git push origin master
+   47  cls
+   48  clear
+   49  git init
+   50  git status
+   51  git add .
+   52  git commit -m "ejemplo"
+   53  git push
+   54  cls
+   55  cleaer
+   56  clear
+   57  cd ..
+   58  cd ..
+   59  git clone https://github.com/MariaSulcaDev/13_MariaSulca_POO.git
+   60  cd ..
+   61  ls
+   62  cd Desktop/
+   63  ls
+   64  cd 13_MariaSulca_POO/
+   65  git status
+   66  cd 13_MariaSulca/src/S03_13/
+   67  ls
+   68  git add S3_13_DoWhile.java 
+   69  git status
+   70  cd ../../
+   71  git status}
+   72  git status
+   73  cd ..
+   74  git commit -m "Do-While"
+   75  git push
+   76  git add 13_MariaSulca/src/S03_13/S03_13_For.java
+   77  cd 13_MariaSulca/src/S03_13/
+   78  ls
+   79  cd ../../../
+   80  git add 13_MariaSulca/src/S03_13/S3_13_For.java 
+   81  git commit -m "For"
+   82  git push
+   83  git add 13_MariaSulca/src/S03_13/S3_13_Switch.java 
+   84  git commit -m "Switch"
+   85  git push
+   86  git add 13_MariaSulca/src/S03_13/S3_13_array1.java 
+   87  git commit -m "Array 1"
+   88  git push
+   89  git add 13_MariaSulca/src/S03_13/S3_13_array2.java 
+   90  git commit -m "Array 2"
+   91  git add 13_MariaSulca/src/S03_13/S3_13_if_ifelse.java.java 
+   92  git add 13_MariaSulca/src/S03_13/S3_13_if_ifelse.java.java 
+   93  git add 13_MariaSulca/src/S03_13/S3_13_if_ifelse.java
+   94  git commmit -m "if_IfElse"
+   95  git commit -m "if_IfElse"
+   96  git add 13_MariaSulca/src/S03_13/S03_13_while.java 
+   97  git commit -m "While"
+   98  git push
+   99  git init
+  100  git clone https://github.com/JossueTorresDev/15_JossueTorres_POO.git
+  101  git status
+  102  git add .
+  103  git commit -m "Mensaje descriptivo de los cambios realizados"
+  104  git push origin master
+  105  clear
+  106  git remote -v
+  107  git remote add origin https://github.com/JossueTorresDev/15_JossueTorres_POO.git
+  108  git remote -v
+  109  git push origin master
+  110  git push origin main
+  111  cls
+  112  clear
+  113  git config --global user.name"MariaSulcaDev"
+  114  git config --global user.email"maria.sulca.b@vallegrande.edu.pe"
+  115  git config --list
+  116  git clone https://github.com/MauricioTorresDev/Ejemplo.git
+  117  git clone https://github.com/IsaelFatamaDev/NodeJs_Backend.git
+  118  code .
+  119  cls
+  120  clear
+  121  git clone https://github.com/IsaelFatamaDev/NodeJs_Backend.git
+  122  git add .
+  123  git clone https://github.com/IsaelFatamaDev/NodeJs_Backend.git
+  124  git status
+  125  git clone https://github.com/IsaelFatamaDev/NodeJs_Backend.git
+  126  git clone [200~https://github.com/IsaelFatamaDev/NodeJs_Backend.git~cls
+  127  clear
+  128  git clone https://github.com/IsaelFatamaDev/NodeJs_Backend.git
+  129  git clone https://github.com/IsaelFatamaDev/NodeJs_Backend.git
+  130  cd NodeJs_Backend/
+  131  git switch develop
+  132  code .
+  133  git clone
+  134  clear
+  135  git clone https://github.com/MauricioTorresDev/AS232S2_T05_NAMEPROJECT.git
+  136  git clone https://github.com/MariaSulcaDev/15_MariaSulca_POO.git
+  137  git clone https://github.com/vallegrande/AS232S2_18JavaScriptConcepts.git
+  138  git clone https://github.com/vallegrande/AS232S2_T05_RepublicaDeChile.git
+  139  git clone https://github.com/MariaSulcaDev/Database_Script.git
+  140  cls
+  141  clear
+  142  git clone https://github.com/MariaSulcaDev/DataBase_Scripts.git
+  143  git status
+  144  git add Data_base_GamarraMarket.sql
+  145  git clone https://github.com/MariaSulcaDev/DataBase_Scripts.git
+  146  git status
+  147  git clone https://github.com/MariaSulcaDev/POO.git
+  148  git init
+  149  git status
+  150  git clone https://github.com/vallegrande/AS232S2_T05_RepublicaDeChile.git
+  151  git clone https://github.com/vallegrande/AS232S2_T05_RepublicaDeChile.git
+  152  git checkout develop
+  153  cd
+  154  cd ~/Documents/AS232S2_T05_RepublicaDeChile
+  155  git branch -a
+  156  git checkout develop
+  157  git switch develop
+  158  ls
+  159  git checkout develop
+  160  git clone https://github.com/vallegrande/AS232S2_T05_RepublicaDeChile.git
+  161  git clone https://github.com/vallegrande/AS232S2_T05_RepublicaDeChile.git
+  162  git clone https://github.com/vallegrande/AS232S2_T05_RepublicaDeChile.git
+  163  git clone https://github.com/vallegrande/H232S2_15.git
+  164  ls
+  165  git clone
+  166  git clone https://github.com/vallegrande/H232S2_15.git
+  167  git config
+  168  git config --global user.name
+  169  git clone https://github.com/vallegrande/H232S2_15.git
+  170  git clone https://github.com/vallegrande/H232S2_15.git
+  171  git clone https://github.com/vallegrande/H232S2_20.git
+  172  git clone https://github.com/vallegrande/AS231S3_T06-be.git
+  173  clear
+  174  git clone https://github.com/JhoanVicente/AS231S3_T06-be.git
+  175  git config --global user.name
+  176  git config --global user.name "IsaelFatamaDev"
+  177  git config --global user.name
+  178  git config --global user.email
+  179  git config --global user.email "isael.fatama@vallegrande.edu.pe"
+  180  git clone https://github.com/vallegrande/AS231S3_T06-be.git
+  181  cd AS231S3_T06-be
+  182  ls
+  183  git checkout develop
+  184  ls
+  185  git status
+  186  git add .
+  187  cd AS231S3_T06-be
+  188  cd AS231S3_T06-be
+  189  cd AS231S3_T06-be
+  190  git clone https://github.com/vallegrande/AS231S3_T06-utilities.git
+  191  cd AS231S3_T06-utilities
+  192  git checkout develop
+  193  clear
+  194  git pull
+  195  cd Alternancia1/
+  196  cd ..
+  197  cd ..
+  198  git clone https://github.com/vallegrande/TP1_232_GC.git
+  199  git clone https://github.com/MariaSulcaDev/demo.git
+  200  cd demo/
+  201  code .
+  202  git checkout develop
+  203  git pull
+  204  git checkout develop
+  205  git flow init
+  206  git flow feature start test1
+  207  git status
+  208  history > comandos.txt
+  209  git status
+  210  git add .
+  211  git commit -m "demo"
+  212  git flow feature publish test1
+  213  git checkout develop
+  214  git pull
+  215  git branch
+  216  git flow feature finish test1
+  217  git branch -D feature/test1
+  218  git branch
+  219  git flow hotfix start pull1
+  220  git status
+  221  history > comandos2.txt
+  222  git status
+  223  git add .
+  224  git commit -m "Comandos actualizados"
+  225  git flow hotfix finish pull1
+  226  git push
+  227  pit push v1.0.0
+  228  git push v1.0.0
+  229  git push tag v1.0.0
+  230  git push origin v1.0.0
+  231  git reset --hard c0d186fbfd5fa49dd1047e83d08e113b62bbb772
+  232  git push -f
+  233  git flow feature start demo1
+  234  history > demo.txt
